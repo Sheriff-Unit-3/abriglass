@@ -1,4 +1,4 @@
-local modpath = minetest.get_modpath("abriglass").. DIR_DELIM
+local modpath = core.get_modpath("abriglass").. DIR_DELIM
 
 abriglass = {}
 
