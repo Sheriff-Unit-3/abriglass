@@ -1,0 +1,14 @@
+{
+  "$schema": "https://content.luanti.org/api/cdb_schema/",
+  "title": "Abriglass",
+  "tags": ["building", "building_mechanics", "decorative"],
+  "type": "MOD",
+  "dev_state": "MAINTENANCE_ONLY",
+  "ai_disclosure": "NONE",
+  "license": "MIT",
+  "media_license": "CC-BY-SA-4.0",
+  "repo": "https://github.com/mt-mods/abriglass",
+  "issue_tracker": "https://github.com/mt-mods/abriglass/issues/new/choose/",
+  "forum_url": "https://forum.luanti.org/viewtopic.php?t=16085",
+  "short_description": "Adds coloured glass, patterned stained glass, glass lights and one way windows."
+}
